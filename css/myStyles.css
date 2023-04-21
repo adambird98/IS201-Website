@@ -1,0 +1,51 @@
+ul{
+    font-size: 20px;
+    list-style-position: inside;
+}
+
+p{
+    font-weight: bold;
+}
+
+
+body{
+    background-color: ivory;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size:large ;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+}
+
+ol{
+list-style-position: inside;
+}
+
+.bullets{
+    font-size: larger;
+    color: black;
+}
+
+.links{
+    font-style: italic;
+    font-size: larger;
+    color: blue;
+    text-align: left;
+}
+
+.fancy{
+    color: black;
+}
+
+.bad{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.formal{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size:larger ; 
+}
+
+.video{
+    text-align: center;
+}
